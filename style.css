@@ -1,0 +1,10 @@
+.responsive
+{
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 5px;
+}
+.circle
+{
+border-radius: 50%;
+}
